@@ -1,4 +1,4 @@
-# README: Enhancing Retrieval Performance through Diversity in Personalized Prompts
+# README: 
 
 ## Project Overview
 This project explores the impact of diversity on retrieval performance in the context of personalizing input prompts for large language models. As language models are increasingly used in diverse applications, there is a growing need to generate user-specific outputs that consider different backgrounds and preferences. Our approach builds upon prior research on user-profile enrichment, particularly in the LaMP benchmark, by incorporating both similarity augmentation and diversity-enhanced profiles. Our findings demonstrate that integrating a broader range of user information leads to superior retrieval results compared to similarity-based methods alone.
